@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou **Jorge Lito Augusto Dange**, conhecido como **Jorge Dev**.  
+**Jorge Lito Augusto Dange**, conhecido como **Jorge Dev**.  
 Atuo como **Desenvolvedor Full Stack Júnior** nas áreas **web, mobile e desktop**, usando diversas tecnologias e linguagens.
 
 - 🎓 Estudante de **Ciência da Computação** (2024 – Presente)  
