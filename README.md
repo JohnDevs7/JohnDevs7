@@ -62,6 +62,14 @@ Plataforma para registro, gerenciamento e consulta de notas escolares.
 ### 📌 SoftDevs-Learn  
 App Android de cursos de programação offline com PDFs, desenvolvido em Flutter.
 
+### 📌 EDfinance  
+App Android de educação financeira. permitido a boa gestão das finanças e calculo 
+de produtos a se alcaçar, desenvolvido em Flutter.
+
+### 📌 Game Word 
+App Android de jogos online. game Word, é uma aplicação qe concentra diversos tipos de jogos
+para lazer. Jogos 2d, 3d e entre outros disponivel para todas versões android, desenvolvido em Flutter.
+
 ---
 
 ## 📊 Estatísticas do GitHub
