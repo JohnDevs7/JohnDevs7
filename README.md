@@ -70,6 +70,16 @@ de produtos a se alcaçar, desenvolvido em Flutter.
 App Android de jogos online. game Word, é uma aplicação qe concentra diversos tipos de jogos
 para lazer. Jogos 2d, 3d e entre outros disponivel para todas versões android, desenvolvido em Flutter.
 
+### 📌 GetVideos
+**GETVIDEO** é uma plataforma simples e direta que permite assistir vídeos do **YouTube** sem anúncios.  
+O sistema realiza buscas com base no termo inserido e retorna uma lista de vídeos relacionados, 
+permitindo ao usuário assistir de forma limpa e sem distrações.
+
+### 📌 QueenFood
+**QueenFood** é uma plataforma online inovadora para **reservas de restaurantes**, oferecendo uma experiência prática, rápida e segura para os amantes da gastronomia.  
+Com ele, clientes podem reservar mesas em restaurantes de sua escolha, gerenciar horários e visualizar a disponibilidade em **tempo real**.
+
+### 📌 QueenFood
 ---
 
 ## 📊 Estatísticas do GitHub
